@@ -1,8 +1,8 @@
-#title
-##title
-###title
-####title
-#####title
+# title
+## title
+### title
+#### title
+##### title
 
 - 👋 Hi, I’m @NaYoung0614
 - 👀 I’m interested in ...
